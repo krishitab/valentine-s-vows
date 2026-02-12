@@ -3,10 +3,10 @@ import VintageBow from "@/components/VintageBow";
 
 /* ─── Photo data (placeholders — replace src with real uploads) ─── */
 const photos = [
-  { src: "/placeholder.svg", caption: "Us being ridiculously cute 💕" },
-  { src: "/placeholder.svg", caption: "My favorite person in the world 🌸" },
-  { src: "/placeholder.svg", caption: "Every moment with you is magic ✨" },
-  { src: "/placeholder.svg", caption: "Forever & always 💗" },
+  { src: "/IMG_4912.JPG.jpeg", caption: "Us being ridiculously cute 💕" },
+  { src: "/IMG_3201.PNG", caption: "My favorite person in the world 🌸" },
+  { src: "/IMG_2747.JPG.jpeg", caption: "Every moment with you is magic ✨" },
+  { src: "/IMG_7889.HEIC", caption: "Forever & always 💗" },
 ];
 
 /* ─── Scroll-triggered fade-in hook ─── */
