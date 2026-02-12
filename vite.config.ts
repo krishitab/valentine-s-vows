@@ -5,6 +5,8 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  plugins: [react()],
+  base: "/valentine-s-vows/",
   server: {
     host: "::",
     port: 8080,
